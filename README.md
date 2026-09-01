@@ -1,3 +1,5 @@
+<img src="hello_rust_egui.svg" alt="hello_rust_egui" width="120">
+
 # Example of Rust Egui
 
 ## Requirments
